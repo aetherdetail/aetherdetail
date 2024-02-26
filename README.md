@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... something that will support or improve humanity
 - 📫 How to reach me ...ht@chainquery.ai
 - 😄 Pronouns: ...King/Majesty
-- ⚡ Fun fact: ...we are one.
+- ⚡ Fun fact: ...We Are One.
 
 <!---
 aetherdetail/aetherdetail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
